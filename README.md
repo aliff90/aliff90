@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Aliff.
 
-After finishing my degree, I learned web developement as I realized my interest is in web deelopement . I just finished my course on ReactJS! Now I'm improving my skills in ReactJS. Although a long way to go, learning something new everytime.
+After finishing my degree, I learned web developement as I realized my interest is in web developement . I just finished my course on ReactJS! Now I'm improving my skills in ReactJS. Although a long way to go, learning something new everytime.
 <!--
 **aliff90/aliff90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
